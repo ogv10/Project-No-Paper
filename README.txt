@@ -1,20 +1,9 @@
-Beyond the Paper: A Self-Taught Journey into Binary Analysis
-
+#Beyond the Paper: A Self-Taught Journey into Binary Analysis
 
 
 The Motivation I have taken an unconventional path in life. Without the traditional safety net of formal education or GCSEs, I have had to rely entirely on my own discipline and ability to learn. I am often filtered out of opportunities on paper, so I focus on proving my practical aptitude.
-
-
-
-
 I have an obsessive drive to understand complex systems. When I feel trapped or limited, I turn to learning. This project was born out of that drive—a challenge to myself to bridge the gap between high-level programming and low-level machine code in a single evening.
-
-
-
-
 The Objective To take a compiled C binary designed to "lock" the user out, and successfully reverse engineer it to gain access—proving that with the right mindset, no system is truly closed.
-
-
 
 Tech Stack: Kali Linux, Assembly (Intel Syntax), Memory Management, Binary Patching.
 
