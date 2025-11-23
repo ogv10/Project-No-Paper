@@ -1,4 +1,4 @@
-#Beyond the Paper: A Self-Taught Journey into Binary Analysis
+Beyond the Paper: A Self-Taught Journey into Binary Analysis
 
 
 The Motivation I have taken an unconventional path in life. Without the traditional safety net of formal education or GCSEs, I have had to rely entirely on my own discipline and ability to learn. I am often filtered out of opportunities on paper, so I focus on proving my practical aptitude.
