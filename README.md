@@ -1,4 +1,4 @@
-                                                                                            Beyond the Paper: A Self-Taught Journey into Binary Analysis
+Beyond the Paper: A Self-Taught Journey into Binary Analysis
 
 
 
